@@ -1,0 +1,26 @@
+## Troubleshooting and Support Resources
+
+### Common Issues Encountered
+
+| Issue                            | Possible Cause                                  | Resolution                                                       |
+| -------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------- |
+| Resource deployment failed       | Invalid resource name or unavailable region     | Verify naming requirements and select a supported region         |
+| Budget not generating alerts     | Alert threshold not configured                  | Review budget settings and notification recipients               |
+| Unable to access Cost Management | Insufficient permissions                        | Confirm account has appropriate subscription access              |
+| MFA setup issues                 | Authenticator app not linked correctly          | Re-register the authentication method and verify device settings |
+| Resource Group creation failed   | Subscription limitations or policy restrictions | Check subscription status and Azure policies                     |
+
+### Azure Support Resources
+
+The following resources can be used for troubleshooting and learning:
+
+* Azure Documentation
+* Azure Portal Help Center
+* Azure Advisor Recommendations
+* Microsoft Learn Training Modules
+* Azure Status Page
+* Azure Community Forums
+
+### Lessons Learned
+
+During this exercise, Azure governance concepts were explored, including resource organization, cost monitoring, security through Multi-Factor Authentication, and dashboard customization. These practices help improve operational efficiency, security, and cost control in cloud environments.
